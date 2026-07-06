@@ -19,43 +19,7 @@ Aplicativo mobile criado com Expo e React Native para salvar, categorizar, abrir
 - TypeScript
 - AsyncStorage
 
-## Como Rodar
 
-Instale as dependências:
-
-```bash
-npm install
-```
-
-Inicie o projeto:
-
-```bash
-npm start
-```
-
-Também é possível iniciar diretamente em uma plataforma:
-
-```bash
-npm run android
-npm run ios
-npm run web
-```
-
-## Validação
-
-Execute a checagem de tipos:
-
-```bash
-npm run typecheck
-```
-
-Execute os testes:
-
-```bash
-npm test
-```
-
-## Estrutura Principal
 
 ```text
 src/
